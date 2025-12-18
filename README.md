@@ -39,6 +39,8 @@ For functional execution and extension of the Live Data Charter, refer to the [P
 6. **Project ÆTHER:** Physical robotics, magnetic impulse, and movement tokens.
 7. **The Charter - Token Model:** Implementation of the JC/EM and 9-factor evaluation system.
 
+**Access the Full Charter and Proprietary Analysis here:** [Live Data Charter on Substack](https://open.substack.com/pub/theunknownchannel/p/live-data-charter?utm_campaign=post-expanded-share&utm_medium=web)
+
 ---
 **GOVERNANCE NOTICE:** Commercial use of these protocols without a verified Social License to Operate and a paid subscription from the Live Data Charter compliance office is strictly prohibited and subject to provenance litigation. 
 The complete charter contains proprietary analysis and methodologies under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND). 
