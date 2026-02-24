@@ -38,6 +38,10 @@ For functional execution and extension of the Live Data Charter, refer to the [P
 5. **The Water Dividend:** Environmental derivations for thermal density reduction and water reclamation.
 6. **Project ÆTHER:** Physical robotics, magnetic impulse, and movement tokens.
 7. **The Charter - Token Model:** Implementation of the JC/EM and 9-factor evaluation system.
+8.
+9. LIVE DATA CHARTER - Measurement Methodology & Source Verification Appendix - Updated January 2026 
+10. The Genesis Node: Sovereign Tier III Infrastructure (The Genesis Node of The Cognitive Intelligence Web)  
+
 
 **Access the Full Charter and Proprietary Analysis here:** [Live Data Charter on Substack](https://open.substack.com/pub/theunknownchannel/p/live-data-charter?utm_campaign=post-expanded-share&utm_medium=web)
 
