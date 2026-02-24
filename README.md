@@ -31,16 +31,16 @@ Implementation of these protocols is governed by a binding **Social License to O
 
 ### Technical Evolution: The 7 Protocols
 For functional execution and extension of the Live Data Charter, refer to the [Protocols Directory](./protocols/README.md):
-1. **Line of Fire Protocol:** Stateless architecture, RAM-only processing, and the "Snake Strategy" rollout.
-2. **The Lode Revolution:** The LODE Browser Engine and Ephemeral Memory Vault architecture.
-3. **The Architecture of Intelligence:** Sapient Hierarchical Reasoning Model (HRM) and mind/reflex separation.
-4. **The Architecture of Zero:** The 4 pillars and the physics-based JC/EM metric.
-5. **The Water Dividend:** Environmental derivations for thermal density reduction and water reclamation.
-6. **Project ÆTHER:** Physical robotics, magnetic impulse, and movement tokens.
-7. **The Charter - Token Model:** Implementation of the JC/EM and 9-factor evaluation system.
-8.
-9. LIVE DATA CHARTER - Measurement Methodology & Source Verification Appendix - Updated January 2026 
-10. The Genesis Node: Sovereign Tier III Infrastructure (The Genesis Node of The Cognitive Intelligence Web)  
+1. **The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend
+2. **Line of Fire Protocol:** Stateless architecture, RAM-only processing, and the "Snake Strategy" rollout.
+3. **The Lode Revolution:** The LODE Browser Engine and Ephemeral Memory Vault architecture.
+4. **The Architecture of Intelligence:** Sapient Hierarchical Reasoning Model (HRM) and mind/reflex separation.
+5. **The Architecture of Zero:** The 4 pillars and the physics-based JC/EM metric.
+6. **The Water Dividend:** Environmental derivations for thermal density reduction and water reclamation.
+7. **Project ÆTHER:** Physical robotics, magnetic impulse, and movement tokens.
+8. **The Charter - Token Model:** Implementation of the JC/EM and 9-factor evaluation system.
+9. **The Live Data Charter - Measurement Methodology & Source Verification - Appendix Updated January 2026
+10. **The Genesis Node: Sovereign Tier III Infrastructure (The Genesis Node of The Cognitive Intelligence Web)  
 
 
 **Access the Full Charter and Proprietary Analysis here:** [Live Data Charter on Substack](https://open.substack.com/pub/theunknownchannel/p/live-data-charter?utm_campaign=post-expanded-share&utm_medium=web)
