@@ -40,7 +40,7 @@ Guardian AI protocols protect, anonymize and monitor each interaction to generat
 ADDENDUM: TECHNICAL EVOLUTION
 The following protocols represent the functional execution of the principles above:
 
-1. The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend, liberating $18–30B in capital and 45–76 TWh of energy.
+1. The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend, liberating $18–30B in capital and 45–76 TWh of energy. 📃 https://dx.doi.org/10.2139/ssrn.6427958
 
 2. The Line of Fire Protocol: A stateless architecture processing queries in RAM to achieve a 6.0x–6.8x efficiency gain, reducing consumption from 14.3J to 2.4J to fund the "Snake Strategy" rollout.
 
@@ -56,7 +56,7 @@ The following protocols represent the functional execution of the principles abo
 
 8. The Charter - Token Model (Regenerative Industrial Revolution): The implementation of the JCEM (Joule-Cost-per-Engaged-Minute) and the 9-factor evaluation Token system to enforce a new Social License to Operate; this re-instates business accountability by mandating that 70% of supply chain efficiency gains fund worker transition until they are fully reintegrated into the working world.
 
-9. LIVE DATA CHARTER - Measurement Methodology & Source Verification Appendix** - Updated January 2026 data validation for Charter Architecture: JC/EM baselines, energy projections (45-76 TWh), water metrics (132-223B liters), risks/policies.
+9. LIVE DATA CHARTER - Measurement Methodology & Source Verification Appendix** - Updated January 2026 data validation for Charter Architecture: JC/EM baselines, energy projections (45-76 TWh), water metrics (132-223B liters), risks/policies. 📃 https://dx.doi.org/10.2139/ssrn.6468642
 
 10. The Genesis Node: Sovereign Tier III Infrastructure (The Genesis Node of The Cognitive Intelligence Web)  
 Physical instantiation executing the full TECHNICAL EVOLUTION stack - Air-gapped hub instantiating the Cognitive Intelligence Web—hardware for Live Data Charter at scale. Features: 100% stateless execution, JC/EM enforcement, Guardian AI orchestration, Self-funds via 46.5x Efficiency Dividend. 
