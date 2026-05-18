@@ -3,7 +3,7 @@
 Publication Timestamp: August 14, 2025  
 Version: v1.0.0-Genesis  
 Author: Felix J Vigneault  
-Status: Genesis Block - Full Charter on Substack 
+Status: Genesis Block - Full Charter on Substack (https://theunknownchannel.substack.com)
 
 Part 1: The Core Philosophy - The Architecture
 
@@ -40,7 +40,7 @@ Guardian AI protocols protect, anonymize and monitor each interaction to generat
 ADDENDUM: TECHNICAL EVOLUTION
 The following protocols represent the functional execution of the principles above:
 
-1. The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend, liberating $18–30B in capital and 45–76 TWh of energy. 📃 https://dx.doi.org/10.2139/ssrn.6427958  and the update. https://dx.doi.org/10.2139/ssrn.6468642
+1. The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend, liberating $18–30B in capital and 45–76 TWh of energy. 📃 https://dx.doi.org/10.2139/ssrn.6427958  and the update https://dx.doi.org/10.2139/ssrn.6468642
 
 2. The Line of Fire Protocol: A stateless architecture processing queries in RAM to achieve a 6.0x–6.8x efficiency gain, reducing consumption from 14.3J to 2.4J to fund the "Snake Strategy" rollout.
 
