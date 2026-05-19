@@ -62,7 +62,7 @@ The following protocols represent the functional execution of the principles abo
 Physical instantiation executing the full TECHNICAL EVOLUTION stack - Air-gapped hub instantiating the Cognitive Intelligence Web—hardware for Live Data Charter at scale. Features: 100% stateless execution, JC/EM enforcement, Guardian AI orchestration, Self-funds via 46.5x Efficiency Dividend.
 
 11. The Field - The Field / A computational environment where Intent is the only currency.
-The Field is the micro-level computational expression of the Live Data Charter. Where the Genesis Node is the deployment layer that makes the Charter physical, The Field is the architecture that makes the Charter computational. "Every operating system ever built answers: what must this kernel be able to do? The Field answers the opposite: what must it be physically impossible for a computational environment to do?"
+The Field is the micro-level computational expression of the Live Data Charter. Where the Genesis Node is the deployment layer that makes the Charter physical, The Field is the architecture that makes the Charter computational. "Every operating system ever built answers: what must this kernel be able to do? The Field answers the opposite: what must it be physically impossible for a computational environment to do?" LINK HERE: https://doi.org/10.5281/zenodo.20293932
 What The Field Introduces
 - Five hardware primitives that make surveillance architecturally unrepresentable
 - Four execution steps: Intent Formalization → Contract Synthesis → Hardware Abstraction → Deployment Verification
