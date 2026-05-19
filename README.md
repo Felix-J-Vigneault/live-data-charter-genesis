@@ -31,7 +31,7 @@ Implementation of these protocols is governed by a binding **Social License to O
 
 ### Technical Evolution: The 7 Protocols
 For functional execution and extension of the Live Data Charter, refer to the [Protocols Directory](./protocols/README.md):
-1. **The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend
+1. **The Live Data Charter (Parts I, II, & III): The foundational framework establishing the transition from the "Surveillance Toll" to the Live Data Dividend LINK HERE: https://doi.org/10.2139/ssrn.6427958
 2. **Line of Fire Protocol:** Stateless architecture, RAM-only processing, and the "Snake Strategy" rollout.
 3. **The Lode Revolution:** The LODE Browser Engine and Ephemeral Memory Vault architecture.
 4. **The Architecture of Intelligence:** Sapient Hierarchical Reasoning Model (HRM) and mind/reflex separation.
@@ -39,12 +39,12 @@ For functional execution and extension of the Live Data Charter, refer to the [P
 6. **The Water Dividend:** Environmental derivations for thermal density reduction and water reclamation.
 7. **Project ÆTHER:** Physical robotics, magnetic impulse, and movement tokens.
 8. **The Charter - Token Model:** Implementation of the JC/EM and 9-factor evaluation system.
-9. **The Live Data Charter - Measurement Methodology & Source Verification - Appendix Updated January 2026
+9. **The Live Data Charter - Measurement Methodology & Source Verification - Appendix Updated January 2026 LINK HERE: https://doi.org/10.2139/ssrn.6468642
 10. **The Genesis Node: Sovereign Tier III Infrastructure (The Genesis Node of The Cognitive Intelligence Web)
-11. **The Field: The Field / A computational environment where Intent is the only currency. The Field is the micro-level computational expression of the Live Data Charter: where the Genesis Node is the deployment layer that makes the Charter physical, The Field is the architecture that makes the Charter computational. “Every operating system ever built answers: what must this kernel be able to do? The Field answers the opposite: what must it be physically impossible for a computational environment to do?” 
+11. **The Field: The Field / A computational environment where Intent is the only currency. The Field is the micro-level computational expression of the Live Data Charter: where the Genesis Node is the deployment layer that makes the Charter physical, The Field is the architecture that makes the Charter computational. “Every operating system ever built answers: what must this kernel be able to do? The Field answers the opposite: what must it be physically impossible for a computational environment to do?” LINK HERE: https://doi.org/10.5281/zenodo.20293932
 
 
-**Access the Full Charter and Proprietary Analysis here:** [Live Data Charter on Substack](https://open.substack.com/pub/theunknownchannel/p/live-data-charter?utm_campaign=post-expanded-share&utm_medium=web) or SSRN: https://dx.doi.org/10.2139/ssrn.6427958 and the update https://dx.doi.org/10.2139/ssrn.6468642
+**Access the Full Charter and Proprietary Analysis here:** [Live Data Charter on Substack] (https://theunknownchannel.substack.com) or available at SSRN: https://dx.doi.org/10.2139/ssrn.6427958 and the update https://dx.doi.org/10.2139/ssrn.6468642
 
 ---
 **GOVERNANCE NOTICE:** Commercial use of these protocols without a verified Social License to Operate and a paid subscription from the Live Data Charter compliance office is strictly prohibited and subject to provenance litigation. 
